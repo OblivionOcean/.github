@@ -9,7 +9,7 @@ OblivionOcean是一个专注于程序与网页设计的青少年组织。成立�
 OblivionOcean is a youth organization that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
 ## 贡献提示:
-Commit Message 格式: [类型] 内容(*注:不同类型应该分开提交*)
+Commit Message 格式: `[类型] 内容` (*注:不同类型应该分开提交*)
 - feat: 新特性
 - fix: 修改问题
 - refactor: 代码重构
@@ -19,7 +19,7 @@ Commit Message 格式: [类型] 内容(*注:不同类型应该分开提交*)
 - chore: 其他修改, 比如构建流程, 依赖管理.
 
 ## Open source contribution tips
-Commitment Message Format: [type] content (*Note: Different types should be submitted separately*)
+Commitment Message Format: `[type] content` (*Note: Different types should be submitted separately*)
 - feat: New features
 - fix: Fix bug
 - refactor: Refactoring code
