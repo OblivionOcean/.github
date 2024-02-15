@@ -6,7 +6,7 @@ Into Oblivion. | <a href="https://www.oblivionocean.top/">Website</a>
 OblivionOcean是一个专注于程序与网页设计的青少年组织。成立于2022年，在2023年7月重组扩编，OblivionOcean已经有了20余人的常备人员。
 
 
-OblivionOcean is a youth organization that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
+OblivionOcean is a teenage studio that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
 ## 贡献提示:
 Commit Message 格式: `[类型] 内容` (*注:不同类型应该分开提交*)
