@@ -3,10 +3,13 @@
 Into Oblivion. | <a href="https://www.oblivionocean.top/">Website</a>
 </p>
 
-OblivionOcean是一个专注于程序与网页设计的青少年组织。成立于2022年，在2023年7月重组扩编，OblivionOcean已经有了20余人的常备人员。
+OblivionOcean 是一个专注于程序与网页设计的组织。成立于2022年，在2023年7月重组扩编，OblivionOcean已经有了20余人的常备人员。
 
+OblivionOcean is a studio that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
-OblivionOcean is a teenage studio that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
+## 结构组成
+- President [@Lafcadia](https://github.com/Lafcadia) ( 2022- )
+- CEO [@Fgaoxing](https://github.com/Fgaoxing) ( 2022 - )
 
 ## 贡献提示:
 Commit Message 格式: `[类型] 内容` (*注:不同类型应该分开提交*)
