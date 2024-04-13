@@ -8,7 +8,7 @@ OblivionOcean 是一个专注于程序与网页设计的组织。成立于2022�
 OblivionOcean is a studio that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
 ## 结构组成
-- President [@Lafcadia](https://github.com/Lafcadia) ( 2022- )
+- President [@Lafcadia](https://github.com/Lafcadia) ( 2022 - )
 - CEO [@Fgaoxing](https://github.com/Fgaoxing) ( 2022 - )
 
 ## 贡献提示:
