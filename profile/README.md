@@ -3,9 +3,9 @@
 Into Oblivion. | <a href="https://www.oblivionocean.top/">Website</a>
 </p>
 
-Team OblivionOcean(简称: TOO)是一个专注于程序与网页设计的组织。成立于2022年，在2023年7月重组扩编，玄云海已经有了20余人的常备人员。
+Team OblivionOcean (简称: TOO) 是一个开发者组织。成立于2022年，在2023年7月重组扩编，玄云海已经有了20余人的常备人员。
 
-Team OblivionOcean is a studio that focuses on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
+Team OblivionOcean (in short, TOO) is a studio focusing on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
 ## 结构组成
 - President [@Lafcadia](https://github.com/Lafcadia) ( 2022 - )
