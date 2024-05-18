@@ -8,8 +8,9 @@ Team OblivionOcean (简称: TOO) 是一个开发者组织。成立于2022年，�
 Team OblivionOcean (in short, TOO) is a studio focusing on programming and web design. Established in 2022 and restructured and expanded in July 2023, OblivionOcean has a standing staff of over 20 people.
 
 ## 结构组成
-- President [@Lafcadia](https://github.com/Lafcadia) ( 2022 - )
-- CEO [@Fgaoxing](https://github.com/Fgaoxing) ( 2022 - )
+- President [@Lafcadia](https://github.com/Lafcadia) (2022 - )
+- CEO [@Fgaoxing](https://github.com/Fgaoxing) (2022 - )
+- CCO [@?](https://github.com/OblivionOcean) (2024 - )
 
 ## 贡献提示:
 Commit Message 格式: `[类型] 内容` (*注:不同类型应该分开提交*)
