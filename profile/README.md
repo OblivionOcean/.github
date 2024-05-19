@@ -10,7 +10,7 @@ Team OblivionOcean (in short, TOO) is a studio focusing on programming and web d
 ## 结构组成
 - President [@Lafcadia](https://github.com/Lafcadia) (2022 - )
 - CEO [@Fgaoxing](https://github.com/Fgaoxing) (2022 - )
-- CCO [@?](https://github.com/OblivionOcean) (2024 - )
+- CCO [技术云](https://github.com/svipwing) (2024 - )
 
 ## 贡献提示:
 Commit Message 格式: `[类型] 内容` (*注:不同类型应该分开提交*)
